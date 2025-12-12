@@ -56,3 +56,9 @@ Confirm the AppHost status shows **Running** in the SOAR Apps console.
 
 ![AppHost Running](screenshots/10-apphost-running.png)
 
+### j. Check the APPhost is joined and working
+
+![AppHost Joined Successfully](screenshots/11-apphost-running.png)
+
+
+## THE END
