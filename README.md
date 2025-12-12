@@ -12,7 +12,6 @@ This repository provides a **step-by-step SOP** for installing and pairing an
 | Deployment Type | Virtual Appliance (OVA) |
 | Files | `apphost-1.15.5.0.2.ova` / `ova` |
 | Hardware | As per IBM sizing documentation |
-| SSL | RootCA.pem, cert.pem, key.pem, Intermediate.pem |
 | FQDN | `soarapp.<yourdomain>` |
 | Ports | 443, 65000, 65001 |
 
