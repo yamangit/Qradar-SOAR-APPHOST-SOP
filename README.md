@@ -10,12 +10,11 @@ This repository provides a **step-by-step SOP** for installing and pairing an
 |------------|--------|
 | SOAR Version | 51.0.6.2.23 |
 | Deployment Type | Virtual Appliance (OVA) |
-| Files | `soar-51.0.6.2.23.run` / `ova` |
+| Files | `apphost-1.15.5.0.2.ova` / `ova` |
 | Hardware | As per IBM sizing documentation |
 | SSL | RootCA.pem, cert.pem, key.pem, Intermediate.pem |
-| FQDN | `soar.<yourdomain>` |
+| FQDN | `soarapp.<yourdomain>` |
 | Ports | 443, 65000, 65001 |
-| License | `License.txt` |
 
 **Important:** Values inside `< >` must be replaced with environment-specific values before execution.
 
